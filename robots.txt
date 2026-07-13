@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://novahweb.github.io/dobore-demo/sitemap.xml

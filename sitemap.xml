@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Rutas principales del sitio (demo). Las páginas de detalle (experiencias/
+     historias) se descubren siguiendo enlaces desde /experiencias e /historias. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://novahweb.github.io/dobore-demo/</loc><priority>1.0</priority></url>
+  <url><loc>https://novahweb.github.io/dobore-demo/experiencias</loc><priority>0.9</priority></url>
+  <url><loc>https://novahweb.github.io/dobore-demo/reservas</loc><priority>0.9</priority></url>
+  <url><loc>https://novahweb.github.io/dobore-demo/sobre-nosotros</loc><priority>0.7</priority></url>
+  <url><loc>https://novahweb.github.io/dobore-demo/historias</loc><priority>0.7</priority></url>
+  <url><loc>https://novahweb.github.io/dobore-demo/galeria</loc><priority>0.6</priority></url>
+  <url><loc>https://novahweb.github.io/dobore-demo/visitanos</loc><priority>0.7</priority></url>
+  <url><loc>https://novahweb.github.io/dobore-demo/ecosistema</loc><priority>0.5</priority></url>
+  <url><loc>https://novahweb.github.io/dobore-demo/contacto</loc><priority>0.6</priority></url>
+</urlset>
